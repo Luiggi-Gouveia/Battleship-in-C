@@ -1,2 +1,2 @@
-# Battleship-in-C
-Project created in college with the goal of learning programming language and logic.
+# Batalha-naval-em-C
+Projeto criado com o objetivo de aplicar os conhecimentos adquiridos em aula.
